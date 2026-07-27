@@ -1,0 +1,75 @@
+==================================================================
+https://keybase.io/cdupree
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://www.craigmdupree.info
+  * I am cdupree (https://keybase.io/cdupree) on keybase.
+  * I have a public key with fingerprint C452 9763 32CC 528E B61B  DB95 5D53 CEC3 5BED 7481
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120cecc9558c774ec57e7bc92c0b75507dada7aab3c25526fa117c22a6779d68d550a",
+      "fingerprint": "c452976332cc528eb61bdb955d53cec35bed7481",
+      "host": "keybase.io",
+      "key_id": "5d53cec35bed7481",
+      "kid": "010121bfbee31d12f1e0fc784aa80dfbbc2a1f1a83caac635b5df75aed4ea27d6dad0a",
+      "uid": "738a10418aae41048e74813bf4baf819",
+      "username": "cdupree"
+    },
+    "service": {
+      "hostname": "www.craigmdupree.info",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1785143329,
+  "expire_in": 157680000,
+  "prev": "e82f16befd27041b0db3111eb8ece35ef56d8dab684de1bf9e6a9c99070dda6d",
+  "seqno": 20,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.17
+Comment: https://keybase.io/crypto
+
+yMNvAnicbZJ7UBVVHMcvDyNQ89KLskBYHqPFYx93X5SKCUE4MCQNpV24nbPn7GUV
+7r3du3BBEiMrZQBrZKgJiIGM4dFkw4whwkSojOCEDAxNNGhiDkSFWClZMg12lvS/
+9p/dPfP9fX7f73fO4Fo/U5BPbvbo2VcX9Aqfb043F5n22MMjyijoRKVUYhm1F6+8
+cAHCHt22V0NUIkUzLK1gRZF5XlJE0YIVXsQiVGRWoaHI87SIAAIiAJBTWJ5nBRUw
+jKiwLBBEUUaChIgGULGUqjns2O1yaw6dYBULz8qiwHGsovCshKHAQATJEsRzZB3H
+Q4xEi8SQwXynx5gg5iDw4HjNSc7Ij23F3v/o7/kmzhmoQow5BjGsymBaVUTJAoBE
+IxVChQWMygCJUwBQBALgkSryACMLBqyIBBJrxXfRCk7kJMDQFkYCAFvIh4SNbRxU
+LRCoEiMbQg92O0AhNtKhIpcbY2p/LEUOizUFG70aQe4KvF5vvOIGmr3wP2W85lCN
+XC63U3cqzgIiydd1lyfRQOilrpUZDG13aTaoORDpk0wUY7dHczqoRIYoFV0z8Iwo
+8YyFdCvHUrjEpbmxTTMUvChINHmMPbiYILFEehEgVhErknCQRpBjGAZDCSuY47HK
+C0hCAAqSBWFSpowFICuyTIs0QkBAlJHvdYeTSmQJVAd2wvRodgfQi9wk/ZnTVn+T
+T5DpvlW+xkUzBQWa712/88lmU/egM7RGjTh74SSKSjvxZ7qtpT9357HMjLLydRtW
+zx7t+/sDP3tLTIA6Np8hTez+sqGwf9eOz3q6bTbnnd/Sra+VJlg2zORvnjaP+1b2
+9rbOV4cMbeuQAgPKvYtZMe1jtx4aaTXXLx+Qt7de+uVwV2rjWw3rvsiMbHop5Lkf
+b89k1cZmCQPvj88GuvyuNsz7fTf6YUyVb0782D85B/ouTI9ERV9Pemz4Z296zKPB
+pjeu7KeDJ+6Yil70r/hjKqX/ETpqkG7qXGN+p0G5sVAbcmrPx7GN8wXhD3+6JG9N
+LZme/D5y8WXu/OX6ybbeBP2BxArctb7yq8Hhg9rOUVi3PPu1uOmabSR8YxZUL44z
+ZUtgvVyeN9WRnPT2tos/mK+eum5/V3wyJ3tmTUvcU0PPqHM3uV2eWkvBUZQz22r7
+fDzazH0ENqV1VDX/tTEsbN/xtN+PbEnVB26PH2FeeP6Tkyk7zpkn67YEn/lJfcWK
+BpiSicf33RC0tq3LZWsPTQWlpJauCm7vTemcDXm2LcUeVz+eFhEtm1uiWgKyU9Xt
+delFfiHdSTlNXTd3lz2RdWv5XKE1vy2w8r2M3IhK57B/wK85jQkj/lPJkcWh1eLm
+zhOHs+OqvE+nzF1eDFUfXMjoOyZbE+5PvVR9bU4CNZkNbQVDxwczwob5tiVrzcTq
+vPYref7Nbx76Nqyn51/ah7zr
+=tRil
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/cdupree
+
+==================================================================
