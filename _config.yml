@@ -2,7 +2,7 @@
 # https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll
 
 title: just my home
-theme: jekyll-theme-tactile
+theme: minima
 
 
 # Where things are
@@ -16,6 +16,11 @@ includes_dir        : _includes
 sass:
   sass_dir: _sass
 collections:
+  books:
+    order           :
+      - 2026.md
+      - 2025.md
+      - 2024.md
   posts:
     output          : true
 

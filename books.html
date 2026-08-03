@@ -1,0 +1,9 @@
+---
+layout: default
+---
+{% assign books = site.books | sort: "order" | reverse %}
+
+{% for book in books %}
+  <h2>{{ book.year }}</h2>
+  <p>{{ book.content | markdownify }}</p>
+{% endfor %}
