@@ -5,8 +5,8 @@ year: Current
 
 Currently, I am reading
 
-* Ben Bova, Privateers
-* Robert Jordan, Path of Daggers
+* Ben Bova, Empire Builders
+* Robert Jordan, Winter's Heart
 
 Next up:
 
