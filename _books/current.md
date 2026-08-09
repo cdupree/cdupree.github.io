@@ -5,7 +5,7 @@ year: Current
 
 Currently, I am reading
 
-* Ben Bova, The Dueling Machine
+* Ben Bova, Privateers
 * Robert Jordan, Path of Daggers
 
 Next up:
